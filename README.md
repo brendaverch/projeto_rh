@@ -47,11 +47,11 @@ Este projeto tem como objetivo prever se algum funcionário irá entrar com um p
 Para rodar o repositório é necessário clonar o mesmo, dar o seguinte comando para iniciar o projeto:
 * Clone o repositório para sua máquina local:
 ```
-git clone https://github.com/brendaverch/Preco_Imoveis_SP.git
+git clone https://github.com/brendaverch/projeto_rh.git
 ```
 * Navegue até o diretório do projeto:
 ```
-cd Preco_Imoveis_SP
+cd projeto_rh
 ```
 * Certifique-se de que você possui as dependências necessárias instaladas. Você pode instalá-las executando:
 ```
